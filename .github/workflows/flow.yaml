@@ -7,6 +7,6 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
-      steps:
-        run: echo test
+    runs-on: [self-hosted, macOS, X64]
+    steps:
+      run: echo test

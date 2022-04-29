@@ -1,0 +1,11 @@
+name:
+  my-run-test
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+    runs-on: self-hosted
+      steps:
+        run: echo test

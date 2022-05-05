@@ -2,5 +2,5 @@
 
 This the first test for automatic running a file
 
-the package registry will be the next example 
+the package registry will be the next example. 
 
